@@ -1,0 +1,16 @@
+.media {
+	padding: 20px;
+	overflow: hidden;
+}
+
+.media .img {
+	float: right;
+}
+
+.media .img img {
+	display: block;
+}
+
+.media__body {
+	overflow: hidden;
+}
